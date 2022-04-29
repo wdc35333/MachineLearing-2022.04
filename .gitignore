@@ -127,8 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-01. Intro/.DS_Store
-.gitignore
 05.PCA/.DS_Store
 .gitignore
 07. 텍스트분석/.DS_Store
@@ -159,3 +157,4 @@ ml-latest/.DS_Store
 과제/220427_과제1_원동찬.ipynb
 과제/220427_차원축소_군집화_과제.html
 과제/tree.dot
+.DS_Store
