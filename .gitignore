@@ -127,3 +127,35 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+01. Intro/.DS_Store
+.gitignore
+05.PCA/.DS_Store
+.gitignore
+07. 텍스트분석/.DS_Store
+.gitignore
+06.군집화/.DS_Store
+.gitignore
+01. Intro/.DS_Store
+.gitignore
+08. 추천 시스템/.DS_Store
+.gitignore
+08. 추천 시스템/data/.DS_Store
+ml-latest/.DS_Store
+과제/.DS_Store
+.gitignore
+03.분류/.DS_Store
+.gitignore
+01. Intro/.DS_Store
+07. 텍스트분석/data/.DS_Store
+과제/tree1.dot
+.gitignore
+과제/pima-indians-diabetes.csv
+과제/원동찬.html
+과제/원동찬_0427_차원축소.html
+과제/20220427_원동찬_차원축소.html
+과제/01.인공지능 개요.ipynb
+과제/0425과제.ipynb
+과제/220427_과제1_다중회귀_원동찬.html
+과제/220427_과제1_원동찬.ipynb
+과제/220427_차원축소_군집화_과제.html
+과제/tree.dot
